@@ -19,3 +19,6 @@ game loop (line 152): after the filling screen with #00ffff  , start_button.draw
 
 winner1_button and winner2_button  (lines 187 ,190)takes the winner parameter from ending_game and shows the image of winner on the screen . 
 
+All of the images in icons file and the sounds files used in order to background and common game sounds . mixer.music.load method used for that and mixer.music.play(-1) i made it -1 because while making it -1 , it will work in a loop so its wont end until program closed .
+
+
