@@ -22,3 +22,27 @@ winner1_button and winner2_button  (lines 187 ,190)takes the winner parameter fr
 All of the images in icons file and the sounds files used in order to background and common game sounds . mixer.music.load method used for that and mixer.music.play(-1) i made it -1 because while making it -1 , it will work in a loop so its wont end until program closed .
 
 
+# Photos from in game
+![foto1](https://user-images.githubusercontent.com/72496488/141329718-f8fc436d-e594-4bcb-9965-09d5c2957b42.PNG)
+
+
+
+![foto2](https://user-images.githubusercontent.com/72496488/141329728-49b774c0-9314-4463-bfb5-193a14c89898.PNG)
+
+
+
+![foto3](https://user-images.githubusercontent.com/72496488/141329736-e58ddbb3-9810-4b46-90c3-adb2567c5a43.PNG)
+
+
+
+![foto4](https://user-images.githubusercontent.com/72496488/141329741-0545e82e-e33c-4263-b7e0-46b63058fa58.PNG)
+
+
+
+
+
+
+
+
+
+
