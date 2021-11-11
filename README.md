@@ -1,11 +1,11 @@
 # Tic_Tac_Toe
 In order to work in program all you need pygame . You can pip install pygame on cmd or pip install  or you can pip install -r requirements.txt inside the file path.while its done i can explain the code .
 
---BUTTON.PY--
+##--BUTTON.PY--
 
 I created this class for call our images and to actively move . It takes the width height image and scale size . 
 
---INSIDE OUR Tic_Tac_Toe.py--
+##--INSIDE OUR Tic_Tac_Toe.py--
 
 game_grid() function is creates our 3x3 game outline .
   
